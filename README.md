@@ -9,7 +9,7 @@ I intend to develop innovative technologies and deliver value to people.
 
 
 ## 🛠 Skills
-HTML, CSS, SASS, Javascript, React, Node.js, Git, GitHub, RestApi, Express, MongoDb, Firebase, Bootstrap, Materil-Ui, Tailwind.
+HTML, CSS, SASS, Javascript, React, Node.js, Git, GitHub, RestApi, Express, MongoDb, Firebase, Bootstrap, Materil-Ui, Tailwind, and more...
 
 
 ## 🔗 Links
