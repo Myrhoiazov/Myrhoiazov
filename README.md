@@ -8,6 +8,10 @@ result are important for me.
 I intend to develop innovative technologies and deliver value to people.
 
 
+## 🛠 Skills
+HTML, CSS, SASS, Javascript, React, Node.js, Git, GitHub, RestApi, Express, MongoDb, Firebase, Bootstrap, Materil-Ui, Tailwind.
+
+
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://drive.google.com/file/d/1En2c83YvzR28EJrmOsKTTTZCULSnLnP3/view?usp=share_link)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/denis-myrhoiazov/)
