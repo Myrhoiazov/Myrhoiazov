@@ -2,7 +2,6 @@
 
 I am a `FULL STACK DEVELOPER`. 
 I focus on HTML5, CSS3, JS, React, Node. 
-English — Intermediate. 
 Development, practice and work for the
 result are important for me. 
 I intend to develop innovative technologies and deliver value to people.
