@@ -7,6 +7,8 @@ Development, practice and work for the
 result are important for me. 
 I intend to develop innovative technologies and deliver value to people.
 
+![alt text](https://github.com/Myrhoiazov/denis-myrhoiazov/blob/main/src/assets/images/1x-min.jpg)
+
 
 ## 🛠 Skills
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
